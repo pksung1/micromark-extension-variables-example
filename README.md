@@ -1,5 +1,7 @@
 # micromark-extension-variables-example
 
+[ko](./docs/README.ko.md)
+
 A micromark extension implementation example for handling variables in markdown. This project demonstrates how to create a custom extension that parses and replaces variables in markdown text.
 
 Based on the [micromark variables example](https://github.com/micromark/micromark?tab=readme-ov-file#case-variables), rewritten entirely in TypeScript.
